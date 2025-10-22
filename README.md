@@ -1,0 +1,2 @@
+# GoodNews
+kolektor dobry sprav
