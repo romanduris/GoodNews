@@ -1,1 +1,5 @@
+textblob
+transformers
+torch
 feedparser
+requests
