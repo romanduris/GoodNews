@@ -39,4 +39,4 @@ def process_file(input_file, output_file):
     print(f"✅ Sentiment analyzovaný a uložený do {output_file}")
 
 if __name__ == "__main__":
-    process_file("data/news_2025-10-22-14-37.json", "data/news_sentiment.json")
+    process_file("data/Sources.json", "data/Sentiment.json")
